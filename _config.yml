@@ -17,8 +17,8 @@ favicon: favicon.ico
 
 repository: youpin-mobile/youpin-mobile.github.io
 github_url: https://github.com/youpin-mobile
-url: https://youpin-mobile.github.io
-enforce_ssl: xiaomiyoupin.com
+url: http://youpin-mobile.github.io
+enforce_ssl: https://youpin-mobile.github.io
 
 ## Gem
 plugins:
