@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: youpin-mobile/youpin-mobile.github.io
-github_url: https://github.com/youpin-mobile/
-url: https://www.xiaomiyoupin.com
+github_url: https://github.com/youpin-mobile
+url: https://youpin-mobile.github.io
 enforce_ssl: xiaomiyoupin.com
 
 ## Gem
